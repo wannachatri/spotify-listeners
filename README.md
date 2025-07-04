@@ -1,5 +1,7 @@
 # Artist with most monthly listeners on spotify june 2025
 
+![Spotify-Stats-Trends](https://github.com/user-attachments/assets/8bf14882-5e10-4e85-bc5d-19a9cc8b5d22)
+
 In a historic moment for digital music streaming, **Bruno Mars** emerged as the **most listened-to artist on Spotify** in **June 2025**, cementing his global appeal and musical dominance. With over **115 million monthly listeners**, the pop-funk sensation outpaced some of the most streamed artists of the decade, including The Weeknd, Lady Gaga, and Ed Sheeran.
 
 This achievement isn't just a milestone for Bruno Mars — it's also a reflection of how music consumption is evolving, with Spotify continuing to dominate as the world’s leading audio streaming service.
